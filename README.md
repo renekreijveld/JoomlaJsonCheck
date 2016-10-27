@@ -2,7 +2,7 @@
 
 Checks Joomla 'params' and 'rules' fields in your Joomla database for invalid JSON data.
 
-This plugin sis based on the excellent work of Robert Went: https://github.com/robwent/joomla-json-db-check
+This plugin is based on the excellent work of Robert Went: https://github.com/robwent/joomla-json-db-check
 
 ## Why?
 
@@ -16,5 +16,6 @@ The usual error message shown is:
 
 Simply install the plugin with the Joomla extension installer. Use the Install from URL option.
 
-Then use this URL:
+Then use this URL: https://github.com/renekreijveld/JoomlaJsonCheck/files/555906/JoomlaJSonCheckPlugin.zip
 
+After installation this plugin automatically checks Joomla 'params' and 'rules' fields in your Joomla database for invalid JSON data and repairs it. It then automatically uninstalls itself.
