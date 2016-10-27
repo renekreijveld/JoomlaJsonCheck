@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="plugin" group="system" method="upgrade">
+	<name>JoomlaJSonCheck</name>
+	<author>René Kreijveld</author>
+	<creationDate>2016-10-27</creationDate>
+	<copyright>(C) 2016 DSD Business Internet</copyright>
+	<authorUrl>http://dsd.nu</authorUrl>
+	<version>1.0</version>
+	<description>Checks Joomla 'params' and 'rules' fields for invalid JSON data.</description>
+	<files>
+		<filename plugin="joomlajsoncheck">joomlajsoncheck.php</filename>
+	</files>
+	<scriptfile>joomlajsoncheck.install.php</scriptfile>
+</extension>
